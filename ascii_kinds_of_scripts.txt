@@ -1,0 +1,9 @@
+ a bpftrace script, ASCII text executable
+ awk or perl script, ASCII text
+ Bourne-Again shell script, ASCII text executable
+ Bourne-Again shell script, ASCII text executable, with very long lines (385)
+ C source, ASCII text
+ POSIX shell script, ASCII text executable
+ POSIX shell script, ASCII text executable, with very long lines (459)
+ Python script, ASCII text executable
+ Tcl/Tk script, ASCII text executable

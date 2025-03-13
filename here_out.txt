@@ -1,0 +1,2 @@
+This output is redirected to fd 3.
+Today is Wed 12 Mar 2025 10:59:03 AM +08.

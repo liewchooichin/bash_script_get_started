@@ -1,0 +1,235 @@
+/sbin/aa-remove-unknown: POSIX shell script, ASCII text executable
+/sbin/aa-teardown: POSIX shell script, ASCII text executable
+/sbin/addgnupghome: POSIX shell script, ASCII text executable
+/sbin/add-shell: POSIX shell script, ASCII text executable
+/sbin/alsa: POSIX shell script, ASCII text executable
+/sbin/alsabat-test: Bourne-Again shell script, ASCII text executable
+/sbin/alsa-info: Bourne-Again shell script, ASCII text executable, with very long lines (385)
+/sbin/applygnupgdefaults: POSIX shell script, ASCII text executable
+/sbin/aptd: Python script, ASCII text executable
+/sbin/argdist-bpfcc: Python script, ASCII text executable
+/sbin/bashreadline-bpfcc: Python script, ASCII text executable
+/sbin/bashreadline.bt: awk or perl script, ASCII text
+/sbin/bindsnoop-bpfcc: Python script, ASCII text executable
+/sbin/biolatency-bpfcc: Python script, ASCII text executable
+/sbin/biolatency.bt: awk or perl script, ASCII text
+/sbin/biolatency-kp.bt: awk or perl script, ASCII text
+/sbin/biolatpcts-bpfcc: Python script, ASCII text executable
+/sbin/biopattern-bpfcc: Python script, ASCII text executable
+/sbin/biosnoop-bpfcc: Python script, ASCII text executable
+/sbin/biosnoop.bt: C source, ASCII text
+/sbin/biostacks.bt: awk or perl script, ASCII text
+/sbin/biotop-bpfcc: Python script, ASCII text executable
+/sbin/bitesize-bpfcc: Python script, ASCII text executable
+/sbin/bitesize.bt: awk or perl script, ASCII text
+/sbin/blkdeactivate: Bourne-Again shell script, ASCII text executable
+/sbin/bpflist-bpfcc: Python script, ASCII text executable
+/sbin/bpftool: Bourne-Again shell script, ASCII text executable
+/sbin/brltty-setup: POSIX shell script, ASCII text executable
+/sbin/btrfsdist-bpfcc: Python script, ASCII text executable
+/sbin/btrfsslower-bpfcc: Python script, ASCII text executable
+/sbin/cachestat-bpfcc: Python script, ASCII text executable
+/sbin/cachetop-bpfcc: Python script, ASCII text executable
+/sbin/capable-bpfcc: Python script, ASCII text executable
+/sbin/capable.bt: awk or perl script, ASCII text
+/sbin/cobjnew-bpfcc: Bourne-Again shell script, ASCII text executable
+/sbin/compactsnoop-bpfcc: Python script, ASCII text executable
+/sbin/cpudist-bpfcc: Python script, ASCII text executable
+/sbin/cpuunclaimed-bpfcc: Python script, ASCII text executable
+/sbin/cpuwalk.bt: awk or perl script, ASCII text
+/sbin/cracklib-format: POSIX shell script, ASCII text executable
+/sbin/create-cracklib-dict: POSIX shell script, ASCII text executable
+/sbin/criticalstat-bpfcc: Python script, ASCII text executable
+/sbin/dbslower-bpfcc: Python script, ASCII text executable
+/sbin/dbstat-bpfcc: Python script, ASCII text executable
+/sbin/dcsnoop-bpfcc: Python script, ASCII text executable
+/sbin/dcsnoop.bt: C source, ASCII text
+/sbin/dcstat-bpfcc: Python script, ASCII text executable
+/sbin/deadlock-bpfcc: Python script, ASCII text executable
+/sbin/dirtop-bpfcc: Python script, ASCII text executable
+/sbin/drsnoop-bpfcc: Python script, ASCII text executable
+/sbin/e2scrub: Bourne-Again shell script, ASCII text executable
+/sbin/e2scrub_all: Bourne-Again shell script, ASCII text executable
+/sbin/execsnoop-bpfcc: Python script, ASCII text executable
+/sbin/execsnoop.bt: C source, ASCII text
+/sbin/exitsnoop-bpfcc: Python script, ASCII text executable
+/sbin/ext4dist-bpfcc: Python script, ASCII text executable
+/sbin/ext4slower-bpfcc: Python script, ASCII text executable
+/sbin/filegone-bpfcc: Python script, ASCII text executable
+/sbin/filelife-bpfcc: Python script, ASCII text executable
+/sbin/fileslower-bpfcc: Python script, ASCII text executable
+/sbin/filetop-bpfcc: Python script, ASCII text executable
+/sbin/funccount-bpfcc: Python script, ASCII text executable
+/sbin/funcinterval-bpfcc: Python script, ASCII text executable
+/sbin/funclatency-bpfcc: Python script, ASCII text executable
+/sbin/funcslower-bpfcc: Python script, ASCII text executable
+/sbin/gethostlatency-bpfcc: Python script, ASCII text executable
+/sbin/gethostlatency.bt: awk or perl script, ASCII text
+/sbin/getweb: POSIX shell script, ASCII text executable
+/sbin/gnome-menus-blacklist: Python script, ASCII text executable
+/sbin/grub-mkconfig: POSIX shell script, ASCII text executable
+/sbin/grub-reboot: POSIX shell script, ASCII text executable
+/sbin/grub-set-default: POSIX shell script, ASCII text executable
+/sbin/guest-account: POSIX shell script, ASCII text executable
+/sbin/hardirqs-bpfcc: Python script, ASCII text executable
+/sbin/inject-bpfcc: Python script, ASCII text executable
+/sbin/installkernel: POSIX shell script, ASCII text executable
+/sbin/invoke-rc.d: POSIX shell script, ASCII text executable
+/sbin/iptables-apply: Bourne-Again shell script, ASCII text executable
+/sbin/javacalls-bpfcc: Bourne-Again shell script, ASCII text executable
+/sbin/javaflow-bpfcc: Bourne-Again shell script, ASCII text executable
+/sbin/javagc-bpfcc: Bourne-Again shell script, ASCII text executable
+/sbin/javaobjnew-bpfcc: Bourne-Again shell script, ASCII text executable
+/sbin/javastat-bpfcc: Bourne-Again shell script, ASCII text executable
+/sbin/javathreads-bpfcc: Bourne-Again shell script, ASCII text executable
+/sbin/killsnoop-bpfcc: Python script, ASCII text executable
+/sbin/killsnoop.bt: awk or perl script, ASCII text
+/sbin/klockstat-bpfcc: Python script, ASCII text executable
+/sbin/kvmexit-bpfcc: Python script, ASCII text executable
+/sbin/ldconfig: POSIX shell script, ASCII text executable
+/sbin/lightdm-session: Bourne-Again shell script, ASCII text executable
+/sbin/llcstat-bpfcc: Python script, ASCII text executable
+/sbin/loads.bt: awk or perl script, ASCII text
+/sbin/locale-gen: Bourne-Again shell script, ASCII text executable
+/sbin/make-ssl-cert: Bourne-Again shell script, ASCII text executable
+/sbin/mdflush-bpfcc: Python script, ASCII text executable
+/sbin/mdflush.bt: C source, ASCII text
+/sbin/memleak-bpfcc: Python script, ASCII text executable
+/sbin/mkinitramfs: POSIX shell script, ASCII text executable
+/sbin/mountsnoop-bpfcc: Python script, ASCII text executable
+/sbin/mysqld_qslower-bpfcc: Python script, ASCII text executable
+/sbin/naptime.bt: C source, ASCII text
+/sbin/netqtop-bpfcc: Python script, ASCII text executable
+/sbin/nfsdist-bpfcc: Python script, ASCII text executable
+/sbin/nfsslower-bpfcc: Python script, ASCII text executable
+/sbin/nodegc-bpfcc: Bourne-Again shell script, ASCII text executable
+/sbin/nodestat-bpfcc: Bourne-Again shell script, ASCII text executable
+/sbin/offcputime-bpfcc: Python script, ASCII text executable
+/sbin/offwaketime-bpfcc: Python script, ASCII text executable
+/sbin/on_ac_power: POSIX shell script, ASCII text executable
+/sbin/oomkill-bpfcc: Python script, ASCII text executable
+/sbin/oomkill.bt: C source, ASCII text
+/sbin/opensnoop-bpfcc: Python script, ASCII text executable
+/sbin/opensnoop.bt: awk or perl script, ASCII text
+/sbin/pam_namespace_helper: POSIX shell script, ASCII text executable
+/sbin/paperconfig: POSIX shell script, ASCII text executable
+/sbin/perlcalls-bpfcc: Bourne-Again shell script, ASCII text executable
+/sbin/perlflow-bpfcc: Bourne-Again shell script, ASCII text executable
+/sbin/perlstat-bpfcc: Bourne-Again shell script, ASCII text executable
+/sbin/phpcalls-bpfcc: Bourne-Again shell script, ASCII text executable
+/sbin/phpflow-bpfcc: Bourne-Again shell script, ASCII text executable
+/sbin/phpstat-bpfcc: Bourne-Again shell script, ASCII text executable
+/sbin/pidpersec-bpfcc: Python script, ASCII text executable
+/sbin/pidpersec.bt: awk or perl script, ASCII text
+/sbin/ppchcalls-bpfcc: Python script, ASCII text executable
+/sbin/profile-bpfcc: Python script, ASCII text executable
+/sbin/pythoncalls-bpfcc: Bourne-Again shell script, ASCII text executable
+/sbin/pythonflow-bpfcc: Bourne-Again shell script, ASCII text executable
+/sbin/pythongc-bpfcc: Bourne-Again shell script, ASCII text executable
+/sbin/pythonstat-bpfcc: Bourne-Again shell script, ASCII text executable
+/sbin/rdmaucma-bpfcc: Python script, ASCII text executable
+/sbin/readahead-bpfcc: Python script, ASCII text executable
+/sbin/remove-shell: POSIX shell script, ASCII text executable
+/sbin/reset-trace-bpfcc: Bourne-Again shell script, ASCII text executable
+/sbin/rubycalls-bpfcc: Bourne-Again shell script, ASCII text executable
+/sbin/rubyflow-bpfcc: Bourne-Again shell script, ASCII text executable
+/sbin/rubygc-bpfcc: Bourne-Again shell script, ASCII text executable
+/sbin/rubyobjnew-bpfcc: Bourne-Again shell script, ASCII text executable
+/sbin/rubystat-bpfcc: Bourne-Again shell script, ASCII text executable
+/sbin/runqlat-bpfcc: Python script, ASCII text executable
+/sbin/runqlat.bt: C source, ASCII text
+/sbin/runqlen-bpfcc: Python script, ASCII text executable
+/sbin/runqlen.bt: C source, ASCII text
+/sbin/runqslower-bpfcc: Python script, ASCII text executable
+/sbin/samba_dnsupdate: Python script, ASCII text executable
+/sbin/samba_downgrade_db: Python script, ASCII text executable
+/sbin/samba-gpupdate: Python script, ASCII text executable
+/sbin/samba_kcc: Python script, ASCII text executable
+/sbin/samba_spnupdate: Python script, ASCII text executable
+/sbin/samba_upgradedns: Python script, ASCII text executable
+/sbin/service: POSIX shell script, ASCII text executable, with very long lines (459)
+/sbin/setuids.bt: awk or perl script, ASCII text
+/sbin/shadowconfig: POSIX shell script, ASCII text executable
+/sbin/shmsnoop-bpfcc: Python script, ASCII text executable
+/sbin/slabratetop-bpfcc: Python script, ASCII text executable
+/sbin/sofdsnoop-bpfcc: Python script, ASCII text executable
+/sbin/softirqs-bpfcc: Python script, ASCII text executable
+/sbin/solisten-bpfcc: Python script, ASCII text executable
+/sbin/ssllatency.bt: awk or perl script, ASCII text
+/sbin/sslsniff-bpfcc: Python script, ASCII text executable
+/sbin/sslsnoop.bt: awk or perl script, ASCII text
+/sbin/stackcount-bpfcc: Python script, ASCII text executable
+/sbin/statsnoop-bpfcc: Python script, ASCII text executable
+/sbin/statsnoop.bt: awk or perl script, ASCII text
+/sbin/swapin.bt: a bpftrace script, ASCII text executable
+/sbin/syncsnoop-bpfcc: Python script, ASCII text executable
+/sbin/syncsnoop.bt: awk or perl script, ASCII text
+/sbin/syscount-bpfcc: Python script, ASCII text executable
+/sbin/syscount.bt: awk or perl script, ASCII text
+/sbin/tarcat: POSIX shell script, ASCII text executable
+/sbin/tclcalls-bpfcc: Bourne-Again shell script, ASCII text executable
+/sbin/tclflow-bpfcc: Bourne-Again shell script, ASCII text executable
+/sbin/tclobjnew-bpfcc: Bourne-Again shell script, ASCII text executable
+/sbin/tclstat-bpfcc: Bourne-Again shell script, ASCII text executable
+/sbin/tcpaccept-bpfcc: Python script, ASCII text executable
+/sbin/tcpaccept.bt: C source, ASCII text
+/sbin/tcpcong-bpfcc: Python script, ASCII text executable
+/sbin/tcpconnect-bpfcc: Python script, ASCII text executable
+/sbin/tcpconnect.bt: C source, ASCII text
+/sbin/tcpconnlat-bpfcc: Python script, ASCII text executable
+/sbin/tcpdrop-bpfcc: Python script, ASCII text executable
+/sbin/tcpdrop.bt: C source, ASCII text
+/sbin/tcplife-bpfcc: Python script, ASCII text executable
+/sbin/tcplife.bt: C source, ASCII text
+/sbin/tcpretrans-bpfcc: Python script, ASCII text executable
+/sbin/tcpretrans.bt: C source, ASCII text
+/sbin/tcprtt-bpfcc: Python script, ASCII text executable
+/sbin/tcpsubnet-bpfcc: Python script, ASCII text executable
+/sbin/tcpsynbl-bpfcc: Python script, ASCII text executable
+/sbin/tcpsynbl.bt: C source, ASCII text
+/sbin/tcptop-bpfcc: Python script, ASCII text executable
+/sbin/tcptracer-bpfcc: Python script, ASCII text executable
+/sbin/tcptraceroute.db: POSIX shell script, ASCII text executable
+/sbin/threadsnoop-bpfcc: Python script, ASCII text executable
+/sbin/threadsnoop.bt: awk or perl script, ASCII text
+/sbin/tplist-bpfcc: Python script, ASCII text executable
+/sbin/trace-bpfcc: Python script, ASCII text executable
+/sbin/ttysnoop-bpfcc: Python script, ASCII text executable
+/sbin/ucalls: Python script, ASCII text executable
+/sbin/u-d-c-print-pci-ids: POSIX shell script, ASCII text executable
+/sbin/uflow: Python script, ASCII text executable
+/sbin/ufw: Python script, ASCII text executable
+/sbin/ugc: Python script, ASCII text executable
+/sbin/undump.bt: C source, ASCII text
+/sbin/uobjnew: Python script, ASCII text executable
+/sbin/update-ca-certificates: POSIX shell script, ASCII text executable
+/sbin/update-cracklib: POSIX shell script, ASCII text executable
+/sbin/update-fonts-alias: POSIX shell script, ASCII text executable
+/sbin/update-fonts-dir: POSIX shell script, ASCII text executable
+/sbin/update-fonts-scale: POSIX shell script, ASCII text executable
+/sbin/update-grub: POSIX shell script, ASCII text executable
+/sbin/update-grub-gfxpayload: POSIX shell script, ASCII text executable
+/sbin/update-gsfontmap: POSIX shell script, ASCII text executable
+/sbin/update-icon-caches: POSIX shell script, ASCII text executable
+/sbin/update-info-dir: POSIX shell script, ASCII text executable
+/sbin/update-initramfs: POSIX shell script, ASCII text executable
+/sbin/update-pciids: POSIX shell script, ASCII text executable
+/sbin/update-secureboot-policy: POSIX shell script, ASCII text executable
+/sbin/update-shells: POSIX shell script, ASCII text executable
+/sbin/upgrade-from-grub-legacy: Bourne-Again shell script, ASCII text executable
+/sbin/usb_modeswitch_dispatcher: Tcl/Tk script, ASCII text executable
+/sbin/ustat: Python script, ASCII text executable
+/sbin/uthreads: Python script, ASCII text executable
+/sbin/vfscount-bpfcc: Python script, ASCII text executable
+/sbin/vfscount.bt: awk or perl script, ASCII text
+/sbin/vfsstat-bpfcc: Python script, ASCII text executable
+/sbin/vfsstat.bt: awk or perl script, ASCII text
+/sbin/virtiostat-bpfcc: Python script, ASCII text executable
+/sbin/wakeuptime-bpfcc: Python script, ASCII text executable
+/sbin/wpa_action: POSIX shell script, ASCII text executable
+/sbin/writeback.bt: awk or perl script, ASCII text
+/sbin/xfsdist-bpfcc: Python script, ASCII text executable
+/sbin/xfsdist.bt: awk or perl script, ASCII text
+/sbin/xfsslower-bpfcc: Python script, ASCII text executable
+/sbin/zfsdist-bpfcc: Python script, ASCII text executable
+/sbin/zfsslower-bpfcc: Python script, ASCII text executable

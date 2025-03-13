@@ -1,0 +1,13 @@
+11
+date: extra operand ‘+%d’
+Try 'date --help' for more information.
+11-month-03
+date: invalid date ‘day of week +%V-month-%m’
+date: invalid date ‘day-of-week-+%V-month-%m’
+date: invalid date ‘day-of-week+%V-month-%m’
+date: invalid date ‘day-of-week+%V-month-%m’
+date: invalid date ‘%y-%V-month-%m’
+25-11-month-03
+EOF
+
+11

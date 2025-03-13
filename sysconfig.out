@@ -1,0 +1,7 @@
+Your root account info: 
+root:x:0:0:root:/root:/bin/bash
+comment 2
+Your localhost configuration:
+127.0.0.1 localhost 
+127.0.1.1 mountaingoat 
+comment 3

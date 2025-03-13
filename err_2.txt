@@ -1,0 +1,2 @@
+ls: cannot access 'not-exists': No such file or directory
+ls: cannot access '2': No such file or directory
